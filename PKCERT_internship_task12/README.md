@@ -1,6 +1,6 @@
 # PKCERT Internship Task 12
 
-This project contains a Jupyter notebook for clustering and dimensionality reduction using the Wine dataset.
+This project contains a Jupyter notebook for clustering and dimensionality reduction using the IBM HR dataset.
 
 ## Structure
 
